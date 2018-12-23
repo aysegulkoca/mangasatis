@@ -1,0 +1,139 @@
+body {
+  font-family: 'Patrick Hand', cursive;
+  background-image: url('img/body.png');
+}
+
+.title {
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bolder;
+  font-size: 32px;
+}
+
+.header {
+  font-family: 'Pangolin', cursive;
+  margin-top: 55px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.banner {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(17, 17, 17, 0.514);
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 100px;
+}
+
+.sidenav .list {
+  margin-top: 100px;
+}
+
+.sidenav ul li {
+  list-style: none;
+  font-size: 20px;
+  font-family: 'Pangolin', cursive;
+  padding: 5px;
+  color: rgb(255, 193, 7);
+}
+
+.sidenav a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.sidenav a:hover {
+  color: #16f502;
+  text-decoration: none;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  margin-top: 10px;
+  right: 30px;
+  font-size: 36px;
+  margin-left: 40px;
+}
+
+table {
+  font-family: 'Pangolin', cursive;
+  border-collapse: collapse;
+  border-color:  rgb(47, 129, 15);
+  border-style: solid;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid rgb(61, 163, 20);
+  text-align: left;
+  padding: 4px;
+}
+
+.wrapper {
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.icon {
+  margin-right: 10px; 
+}
+
+.form-odeme {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.container {
+  font-family: 'Patrick Hand', cursive;
+  background-color: lightyellow;
+  padding-bottom: 20px;
+}
+
+.container h2 {
+  font-family: 'Pangolin', cursive;
+  font-weight: bolder;
+}
+
+.container legend {
+  font-weight: bolder;
+}
+
+.form-inline button {
+  margin-right: 20px;
+}
+
+.form-inline a {
+  text-decoration: none;
+  color: rgb(255, 193, 7);
+}
+
+.form-inline a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.form-group button {
+  margin-top: 20px;
+}
+
+footer p {
+  margin-top: 100px;
+  text-align: center;
+  font-family: 'Pangolin' , cursive;
+}

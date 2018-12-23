@@ -1,0 +1,113 @@
+body {
+  font-family: 'Patrick Hand', cursive;
+  background-image: url('img/body.png');
+}
+
+.title {
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.header {
+  font-family: 'Pangolin', cursive;
+  margin-top: 55px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.banner {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(17, 17, 17, 0.514);
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 100px;
+}
+
+.sidenav .list {
+  margin-top: 25px;
+}
+
+.sidenav ul li {
+  list-style: none;
+  font-size: 20px;
+  font-family: 'Pangolin', cursive;
+  padding: 5px;
+  color: rgb(255, 193, 7);
+}
+
+.sidenav ul li .title {
+  font-weight: bolder;
+}
+
+.sidenav a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.sidenav a:hover {
+  color: #16f502;
+  text-decoration: none;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  margin-top: 10px;
+  right: 30px;
+  font-size: 36px;
+  margin-left: 40px;
+}
+
+.wrapper {
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.icon {
+  margin-right: 10px; 
+}
+
+.card-img-top {
+  margin-bottom: 10px;
+}
+
+.container {
+  font-family: 'Patrick Hand', cursive;
+  background-color: lightyellow;
+  padding-bottom: 20px;
+}
+
+.container h3 {
+  font-family: 'Pangolin', cursive;
+}
+
+.card-deck {
+    display: flex;
+}
+
+.form-inline button {
+  margin-right: 20px;
+}
+
+.form-group button {
+  margin-top: 20px;
+}
+
+footer p {
+  margin-top: 100px;
+  text-align: center;
+  font-family: 'Pangolin' , cursive;
+}

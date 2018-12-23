@@ -1,0 +1,46 @@
+body {
+  font-family: 'Patrick Hand', cursive;
+  background-image: url('img/body.png');
+}
+
+.header {
+  font-family: 'Pangolin', cursive;
+  margin-top: 100px;
+}
+
+.wrapper {
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.form-signin h2 {
+  font-family: 'Pangolin', cursive;
+}
+  
+.checkbox {
+  margin-top: 20px;
+}
+  
+.btn { 
+  border-color: rgb(85, 61, 8);
+  border-style: double;
+  background-color: lightyellow;
+  font-weight: bold;
+  font-family: 'Pangolin', cursive;
+}
+  
+.btn:hover { 
+  border-color: rgb(206, 186, 131);
+  background-color: lightgreen; 
+  font-weight: bolder;
+}
+
+.form-signin {
+  margin-top: 50px;
+}
+
+footer p {
+  margin-top: 100px;
+  font-family: 'Pangolin' , cursive;
+}
