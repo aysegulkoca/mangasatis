@@ -6,14 +6,14 @@
 
 * Projenin veritabanı ne yazık ki silinmiştir; ancak proje MVC mimarisi ile geliştirildiği için model sınıfları veritabanı oluşturulmasında baz alınabilir. 
 
-**PROJE KAPSAMINDA KULLANILAN YAZILIMLAR VE PROGRAMLAR 
+**PROJE KAPSAMINDA KULLANILAN YAZILIMLAR VE PROGRAMLAR** 
 
 * Java 9 
 * Apache-Tomcat 9.0.6 
 * Eclipse JEE Oxygen 3 
 * MYSQL & phpMyAdmin 
 
-**PROJE KAPSAMINDA KULLANILAN EKLENTİLER
+**PROJE KAPSAMINDA KULLANILAN EKLENTİLER**
 
 * mysql-connector-java-5.1.46
 * jstl-1.2
