@@ -18,3 +18,6 @@
 * mysql-connector-java-5.1.46
 * jstl-1.2
 * servlet-api
+
+//Lab Denemesi
+//Sevgi
